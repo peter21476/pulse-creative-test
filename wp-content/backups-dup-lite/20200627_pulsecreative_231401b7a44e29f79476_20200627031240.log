@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: June 27, 2020 3:13 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.36
+WORDPRESS:	5.4.2
+PHP INFO:	7.2.19 | SAPI: apache2handler
+SERVER:		Apache/2.4.35 (Win64) OpenSSL/1.1.1b PHP/7.2.19 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 16MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20200627_pulsecreative_231401b7a44e29f79476_20200627031240_database.sql
+SQL FILE SIZE: 937.63KB (960128)
+SQL FILE TIME: 2020-06-27 03:13:07
+SQL RUNTIME: 2.39 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/laragon/www/pulse-creative
+ARCHIVE FILE: 20200627_pulsecreative_231401b7a44e29f79476_20200627031240_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	91.46MB
+STATS:	Dirs 343 | Files 2,814
+SQL ADDED: 20200627_pulsecreative_231401b7a44e29f79476_20200627031240_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3157
+    [filename] => C:\laragon\www\pulse-creative\wp-content\backups-dup-lite\tmp\20200627_pulsecreative_231401b7a44e29f79476_20200627031240_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 3156
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 51.24MB
+ARCHIVE RUNTIME: 7.36 sec.
+MEMORY STACK: 16MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/laragon/www/pulse-creative/wp-content/backups-dup-lite/tmp/20200627_pulsecreative_231401b7a44e29f79476_20200627031240_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 937.63KB
+INSTALLER FILE: 61.32KB
+ARCHIVE FILE: 52.72MB 
+EXPECTED FILE/DIRECTORY COUNT: 3,157
+ACTUAL FILE/DIRECTORY COUNT: 3,156
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 11.16 sec.
+PEAK PHP MEMORY USED: 18MB
+DONE PROCESSING => 20200627_pulsecreative June 27, 2020 3:13 am
+
